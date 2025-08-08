@@ -1,35 +1,61 @@
-<!-- Profile Card Styled README -->
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%" style="border-radius: 10px;" />
+</p>
 
-<table align="center" bgcolor="#0a192f" style="border-radius:15px; padding:20px; width:350px; color:white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h1 style="margin-bottom: 5px; font-weight: 700;">👋 Hi, I'm <span style="color:#4ade80;">Shah Newaz</span></h1>
-      <p style="font-size: 14px; font-weight: 400; margin-top: 0; color:#a0aec0;">
-        CSE Student & MERN Stack Developer
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 style="margin-top: 10px; margin-bottom: 10px; text-align: center; color:#38bdf8;">💻 Tech Stack</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <br />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding-top: 20px; font-size: 14px; color:#94a3b8;">
-      Aspiring AI Developer | Passionate about coding & building web apps  
-      <br />
-      📫 Contact: <a href="mailto:shahnewaz794@gmail.com" style="color:#38bdf8;">shahnewaz794@gmail.com</a>
-    </td>
-  </tr>
-</table>
+# 👋 Hi, I’m Shah Newaz  
+### Full Stack MERN Developer | Aspiring AI Developer
+
+---
+
+### About Me  
+I’m a Computer Science and Engineering student passionate about building full-stack web applications using the MERN stack. I enjoy solving problems with clean, efficient code and continuously learning new technologies to grow as a developer.
+
+---
+
+### 🚀 Current Activities  
+- Exploring **Next.js** to build faster and SEO-friendly React applications  
+- Working on a **Tourism Management Web Application** project with React, Node.js, and MongoDB  
+- Learning fundamentals of **Artificial Intelligence** and Machine Learning  
+
+---
+
+### 🛠️ Skills  
+
+#### Frontend  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+#### Backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />  
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+#### Tools & Platforms  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />  
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />  
+
+---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnewaz)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahnewaz5646455)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahnewaz794@gmail.com)  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahnewaz5646455&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnewaz5646455&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnewaz5646455&layout=compact&theme=radical" alt="Top Languages" />
+</p>
