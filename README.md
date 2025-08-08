@@ -33,8 +33,6 @@
     </td>
   </tr>
 </table>
-"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%" style="border-radius: 10px;" />
-</p>
 
 # 👋 Hi, I’m Shah Newaz  
 ### Full Stack MERN Developer | Aspiring AI Developer
