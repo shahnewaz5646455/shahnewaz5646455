@@ -69,7 +69,9 @@ I’m a Computer Science and Engineering student passionate about building full-
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="margin: 3px;" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 3px;" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" style="margin: 3px;" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="margin: 3px;" />
 </p>
+
 
 #### Tools & Platforms  
 <p>
